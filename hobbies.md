@@ -7,3 +7,7 @@ These are my hobbies:
 * Sleeping 
 
 * Eating
+
+* Running
+
+* Reading
