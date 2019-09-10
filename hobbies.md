@@ -11,3 +11,5 @@ These are my hobbies:
 * Running
 
 * Reading
+
+* Traveling
